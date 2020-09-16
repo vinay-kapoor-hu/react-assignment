@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How to setup the project
+1. Git clone the repository or download the zip & extract the folder.
+2. Run command `cd assignment`
+3. Run command `npm install`
+4. Run command `npm start`
+
 
 ## Available Scripts
 
